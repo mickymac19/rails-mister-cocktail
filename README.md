@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Mister Cocktail is one of our projects in Le Wagon Tokyo 
+You can browse different cocktails and add your own cocktail recipe. 
 
-Things you may want to cover:
+Built with:
 
-* Ruby version
+*HTML5, CSS, JavaScript, Bootstrap and  
+* Ruby on Rails 6
 
-* System dependencies
+* Dependent on Cloudinary
 
-* Configuration
+*Deployed through Heroku 
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
